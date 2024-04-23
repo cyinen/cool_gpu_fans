@@ -1,5 +1,5 @@
 # cool_gpu_fans 
-
+[English](README_en.md), [Chinese](README.md)
 > linux 服务器因为没有安装桌面，gpu 风扇转速控制一直失败，搞了几天终于成功了，记录一下。
 > 
 
