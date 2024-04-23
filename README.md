@@ -15,8 +15,8 @@
 ## 使用方法
 
 1. 克隆这个仓库到你的本地机器
-2. 给脚本添加执行权限：`chmod +x cool_fans.sh`
-3. 运行脚本：`./cool_fans.sh`
+2. 给脚本添加执行权限：`chmod +x cool_gpus.sh`
+3. 运行脚本：`./cool_gpus.sh`
 4. （可选）设置脚本为开机自启动
 
 注意：这个脚本需要`nvidia-smi`和`nvidia-settings`工具，这两个工具通常在NVIDIA的官方驱动中包含。如果你的系统中没有这两个工具，你需要先安装NVIDIA的官方驱动。
